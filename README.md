@@ -24,7 +24,7 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<iframe src="https://giphy.com/embed/A06UFEx8jxEwU" width="480" height="354" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU">via GIPHY</a></p>
+https://github.com/561Aloha/web102_prework/blob/main/gif.gif
 
 GIF created with ...  
 <!-- Recommended tools:
