@@ -24,7 +24,8 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+<iframe src="https://giphy.com/embed/A06UFEx8jxEwU" width="480" height="354" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU">via GIPHY</a></p>
+
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
